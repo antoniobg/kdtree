@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "kdtree"
-  s.version     = "0.3"
+  s.version     = "0.4"
 
   s.authors     = ["Adam Doppelt"]
   s.email       = ["amd@gurge.com"]
